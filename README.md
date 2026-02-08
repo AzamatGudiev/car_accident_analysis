@@ -308,13 +308,7 @@ jupyter lab
 **Азамат Гудиев**
 
 - GitHub: [@AzamatGudiev](https://github.com/AzamatGudiev)
-- Email: your.email@example.com
-
-## 🙏 Благодарности
-
-- dtp-stat.ru за предоставление данных
-- Администрация Республики Ингушетия
-- Сообщество Data Science
+- Email: gudiev.a@outlook.com
 
 ---
 
